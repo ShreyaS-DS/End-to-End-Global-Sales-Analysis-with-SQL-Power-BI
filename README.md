@@ -77,7 +77,7 @@ They needed a **centralized sales view** to monitor performance and improve stra
 ## 📌 Author  
 👩‍💻 **Shreya S.**  
 - Data Analyst | SQL | Power BI | Python | Excel  
-- [LinkedIn](https://www.linkedin.com) | [GitHub](https://github.com)  
+ 
 
 ---
 
